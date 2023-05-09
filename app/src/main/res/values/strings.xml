@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomNavigationBar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="like_fragment">Like Fragment</string>
+    <string name="search_fragment">Search Fragment</string>
+    <string name="funny_fragment">Funny Fragment</string>
+    <string name="comment_fragment">Comment Fragment</string>
+</resources>
