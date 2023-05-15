@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Funny"
+        android:id="@+id/funny"
+        android:icon="@drawable/ic_baseline_fun"/>
+
+    <item android:title="Like"
+        android:id="@+id/like"
+        android:icon="@drawable/ic_baseline_like"/>
+
+    <item android:title="Comment"
+        android:id="@+id/comment"
+        android:icon="@drawable/ic_baseline_comment"/>
+
+    <item android:title="Search"
+        android:id="@+id/search"
+        android:icon="@drawable/ic_baseline_searching"/>
+
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_profile"/>
+</menu>
